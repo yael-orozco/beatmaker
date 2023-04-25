@@ -1,0 +1,39 @@
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+.square{
+    width: 100px;
+    height: 100px;
+    border: solid;
+    margin: 10px;
+}
+
+#square1{
+    background-color: aquamarine;
+}
+#square2{
+    background-color: lightcoral;
+}
+#square3{
+    background-color: aquamarine;
+}
+#square4{
+    background-color: lightcoral;
+}
+#square5{
+    background-color: aquamarine;
+}
+#square6{
+    background-color: lightcoral;
+}
+#square7{
+    background-color: aquamarine;
+}
+#square8{
+    background-color: lightcoral;
+}
+#square9{
+    background-color: aquamarine;
+}
